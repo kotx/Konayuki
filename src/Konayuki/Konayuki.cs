@@ -63,7 +63,7 @@ namespace Konayuki
                     switch (Options.SequenceOverflowStrategy)
                     {
                         case SequenceOverflowStrategy.IncrementTimestamp:
-                            timestamp++; // TODO: fix collisions
+                            timestamp++;
                             break;
                         case SequenceOverflowStrategy.Throw:
                             throw new OverflowException("Cannot generate any more IDs in this sequence interval.");
