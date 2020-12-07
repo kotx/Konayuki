@@ -26,7 +26,7 @@ The following samples are located at [samples](/samples):
 | [02_custom_epoch](/samples/02_custom_epoch)               | An example of using a custom epoch value.                  |
 | [03_overflow_handling](/samples/03_overflow_handling)     | Showcases different sequence overflow strategies.          |
 
-### Documentation
+## Documentation
 
 The latest documentation is available at [konayuki.yukata.tech](https://konayuki.yukata.tech) or [kotx.github.io/konayuki](kotx.github.io/konayuki).
 
