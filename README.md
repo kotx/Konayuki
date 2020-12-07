@@ -28,7 +28,7 @@ The following samples are located at [samples](/samples):
 
 ## Documentation
 
-The latest documentation is available at [konayuki.yukata.tech](https://konayuki.yukata.tech) or [kotx.github.io/konayuki](kotx.github.io/konayuki).
+The latest documentation is available at [konayuki.yukata.tech](https://konayuki.yukata.tech) or [kotx.github.io/konayuki](https://kotx.github.io/konayuki).
 
 ## Customization
 
