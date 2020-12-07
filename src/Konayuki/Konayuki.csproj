@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <LangVersion>9.0</LangVersion>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+        <Authors>Kot, Konayuki Contributors</Authors>
+        <Company>Konayuki Developers</Company>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/kotx/Konayuki</PackageProjectUrl>
+        <Version>0.1.0</Version>
+        <RepositoryUrl>https://github.com/kotx/Konayuki.git</RepositoryUrl>
+        <RepositoryType>Git</RepositoryType>
+        <PackageTags>snowflake ulong id generator</PackageTags>
+        <SignAssembly>false</SignAssembly>
+        <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+        <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    </PropertyGroup>
+</Project>
